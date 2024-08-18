@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+ font-family: "Inter", sans-serif;
+ background-color: black;
+}
+
+/* navbar styles starts here */
+
+.navbar-container{
+   
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding-top: 40px;
+   padding-right:190px;
+   padding-left: 190px; 
+} 
+
+
+.logo-option-text{
+    background-color: #E6533C; 
+    border-radius: 46px;
+}
+
+.logo-text{
+    color: #E6533C;
+  font-style: italic;
+  font-weight: 800;
+  font-size: 36px;
+  width: 132px;
+  height: 44px;
+}
+.logo-option{
+    display: flex;
+    align-items: center;
+    gap: 47px;
+    padding: 4px;
+    border: 1px solid #ffffff1a;
+    border-radius: 39px;
+    
+    
+}
+.logo-option a{
+    padding: 8px 20px;
+    font-weight: 400px;
+    font-weight: 18px;
+    color: #FFFFFF;
+    line-height: 120%;
+    text-decoration: none;
+    color: none;
+}
+/* navbar styles ends here */
+   
+
+.banner-container h1,p {
+    color: #FFFFFF;
+}
+/* .banner-container h1,p {
+    display: flex;
+    justify-content: center;
+    padding-top: ;
+}
+ .banner-btn{
+    display: flex;
+    justify-content: center;
+
+ } */
+
+.cta-btn{
+    width:224px;
+    background-color: #E6533C;
+    border-radius: 42px;
+    padding:
+}
